@@ -1,0 +1,20 @@
+{
+  "code": "c200",
+  "message": "Success",
+  "body": {
+    "regingName": "大区名",
+    "companyName": "分公司名",
+    "branchName": "营业所名",
+    "standardMarketName": "标准市场名",
+    "smallMarketName": "小标市场名",
+    "storeId": "709882832323",
+    "storeName": "终端名称",
+    "storeTypeName": "终端类型名称",
+    "ownerName": "老板姓名",
+    "telephone": "电话 / 手机号码",
+    "address": "终端地址",
+    "acreage": "30",
+    "lastVisitDate": "2018-03-02",
+    "totalVisitTimes": "5"
+  }
+}

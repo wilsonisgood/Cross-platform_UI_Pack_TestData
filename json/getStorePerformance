@@ -1,0 +1,78 @@
+{
+  "code": "c200",
+  "message": "Success",
+  "body": [
+    {
+      "performanceType": "QTY",
+      "MaxValue": "720",
+      "performanceList": [
+        {
+          "year": "2017",
+          "month": "12",
+          "performanceNumber": "100"
+        },
+        {
+          "year": "2018",
+          "month": "1",
+          "performanceNumber": "702"
+        },
+        {
+          "year": "2018",
+          "month": "2",
+          "performanceNumber": "588"
+        },
+        {
+          "year": "2018",
+          "month": "3",
+          "performanceNumber": "660"
+        },
+        {
+          "year": "2018",
+          "month": "4",
+          "performanceNumber": "720"
+        },
+        {
+          "year": "2018",
+          "month": "5",
+          "performanceNumber": "380"
+        }
+      ]
+    },
+    {
+      "performanceType": "AMOUNT",
+      "MaxValue": "24600",
+      "performanceList": [
+        {
+          "year": "2017",
+          "month": "12",
+          "performanceNumber": "2500"
+        },
+        {
+          "year": "2018",
+          "month": "1",
+          "performanceNumber": "14000"
+        },
+        {
+          "year": "2018",
+          "month": "2",
+          "performanceNumber": "8600"
+        },
+        {
+          "year": "2018",
+          "month": "3",
+          "performanceNumber": "12000"
+        },
+        {
+          "year": "2018",
+          "month": "4",
+          "performanceNumber": "23000"
+        },
+        {
+          "year": "2018",
+          "month": "5",
+          "performanceNumber": "24600"
+        }
+      ]
+    }
+  ]
+}

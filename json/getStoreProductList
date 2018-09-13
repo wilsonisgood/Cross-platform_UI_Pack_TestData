@@ -1,0 +1,1829 @@
+{
+  "code": "c200",
+  "message": "Success",
+  "body": {
+    "totalStockQty": 12,
+    "totalOrderQty": 12,
+    "productStockOrderList": [
+      {
+        "subTotal": "350.0",
+        "productList": [
+          {
+            "productName": "真棒_21GX5X16_番茄,真棒_21GX5X16_番茄,真棒_21GX5X16_番茄,真棒_21GX5X16_番茄",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306103053600",
+            "orderQty": "4",
+            "minUnit": "盒"
+          },
+          {
+            "productName": "珍棒_21GX5X16_黑胡椒烤肉珍棒_21GX5X16_黑胡椒烤肉珍棒_21GX5X16_黑胡椒烤肉珍棒_21GX5X16_黑胡椒烤肉珍棒_21GX5X16_黑胡椒烤肉",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306103053500",
+            "orderQty": "4",
+            "minUnit": "盒"
+          }
+        ],
+        "productGroupId": "D06M02009022001",
+        "subStockQty": "8",
+        "productGroupName": "珍棒21g*5*16",
+        "subOrderQty": "8"
+      },
+      {
+        "subTotal": "350.0",
+        "productList": [
+          {
+            "productName": "仔牛奶糖_1kgX6_原味",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306106176100",
+            "orderQty": "4",
+            "minUnit": "箱"
+          }
+        ],
+        "productGroupId": "D03M02004006001",
+        "subStockQty": "8",
+        "productGroupName": "牛奶糖1kg*6",
+        "subOrderQty": "8"
+      },
+      {
+        "subTotal": "350.0",
+        "productList": [
+          {
+            "productName": "180g小小酥特供装_180gX10_原味",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306101139000",
+            "orderQty": "4",
+            "minUnit": "箱"
+          },
+          {
+            "productName": "180g小小酥特供装_180gX10_黑胡椒",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306101139200",
+            "orderQty": "4",
+            "minUnit": "箱"
+          },
+          {
+            "productName": "180g小小酥特供装_180gX10_葱香鸡肉",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306101139100",
+            "orderQty": "4",
+            "minUnit": "箱"
+          }
+        ],
+        "productGroupId": "D05M06005022001",
+        "subStockQty": "8",
+        "productGroupName": "小小酥特供装180g*10",
+        "subOrderQty": "8"
+      },
+      {
+        "subTotal": "350.0",
+        "productList": [
+          {
+            "productName": "ZebraZebra挑豆_95gx20_脆皮花生",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306105026200",
+            "orderQty": "4",
+            "minUnit": "包"
+          }
+        ],
+        "productGroupId": "D05M03002033001",
+        "subStockQty": "8",
+        "productGroupName": "挑豆好友包脆皮花生95g*20",
+        "subOrderQty": "8"
+      },
+      {
+        "subTotal": "350.0",
+        "productList": [
+          {
+            "productName": "Zebra仔牛奶糖_126GX20_巧克力夹心",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306106174900",
+            "orderQty": "4",
+            "minUnit": "包"
+          },
+          {
+            "productName": "Zebra仔牛奶糖_126gx20_原味",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306106122400",
+            "orderQty": "4",
+            "minUnit": "包"
+          }
+        ],
+        "productGroupId": "D03M02004002001",
+        "subStockQty": "8",
+        "productGroupName": "牛奶糖126g*20",
+        "subOrderQty": "8"
+      },
+      {
+        "subTotal": "350.0",
+        "productList": [
+          {
+            "productName": "维多粒果肉果冻_178gX24_黄桃蜜桃",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306106158400",
+            "orderQty": "4",
+            "minUnit": "包"
+          },
+          {
+            "productName": "维多粒果肉果冻_178gX24_什锦果肉",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306106158300",
+            "orderQty": "4",
+            "minUnit": "包"
+          },
+          {
+            "productName": "果肉果冻_178gX24_蜜桔菠萝",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306106185800",
+            "orderQty": "4",
+            "minUnit": "排"
+          },
+          {
+            "productName": "果肉果冻_178gX24_葡萄苹果",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306106185700",
+            "orderQty": "4",
+            "minUnit": "排"
+          }
+        ],
+        "productGroupId": "D03M03006015001",
+        "subStockQty": "8",
+        "productGroupName": "果肉果冻178g*24",
+        "subOrderQty": "8"
+      },
+      {
+        "subTotal": "350.0",
+        "productList": [
+          {
+            "productName": "Zebra仔熊饼_21GX5X4X4_巧克力",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306118018300",
+            "orderQty": "4",
+            "minUnit": "排"
+          }
+        ],
+        "productGroupId": "D06M02009015001",
+        "subStockQty": "8",
+        "productGroupName": "Zebra仔熊饼21g*5*4*4",
+        "subOrderQty": "8"
+      },
+      {
+        "subTotal": "350.0",
+        "productList": [
+          {
+            "productName": "90gZebra仔小熊饼_90gX24_巧克力",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306118018800",
+            "orderQty": "4",
+            "minUnit": "排"
+          }
+        ],
+        "productGroupId": "D06M02009014001",
+        "subStockQty": "8",
+        "productGroupName": "Zebra仔小熊饼90g*24",
+        "subOrderQty": "7",
+        "minUnit": "排"
+      },
+      {
+        "subTotal": "350.0",
+        "productList": [
+          {
+            "productName": "90gZebra仔牛奶饼_90gX24_牛奶",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306118018700",
+            "orderQty": "4",
+            "minUnit": "排"
+          }
+        ],
+        "productGroupId": "D06M02009012001",
+        "subStockQty": "8",
+        "productGroupName": "Zebra仔牛奶饼90g*24",
+        "subOrderQty": "8"
+      },
+      {
+        "subTotal": "350.0",
+        "productList": [
+          {
+            "productName": "挑豆随手包_42gX8X4_回味蚕豆",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306105074900",
+            "orderQty": "4",
+            "minUnit": "排"
+          }
+        ],
+        "productGroupId": "D05M03002038007",
+        "subStockQty": "8",
+        "productGroupName": "挑豆随手包回味蚕豆42g*8*4",
+        "subOrderQty": "8"
+      },
+      {
+        "subTotal": "350.0",
+        "productList": [
+          {
+            "productName": "小小酥_20gX10X6_葱香鸡肉",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306101137900",
+            "orderQty": "4",
+            "minUnit": "排"
+          },
+          {
+            "productName": "小小酥_20gX10X6_原味",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306101137800",
+            "orderQty": "4",
+            "minUnit": "排"
+          },
+          {
+            "productName": "小小酥_20gX10X6_黑胡椒",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306101138000",
+            "orderQty": "4",
+            "minUnit": "排"
+          }
+        ],
+        "productGroupId": "D05M06005010001",
+        "subStockQty": "8",
+        "productGroupName": "小小酥20g*10*6",
+        "subOrderQty": "8"
+      },
+      {
+        "subTotal": "350.0",
+        "productList": [
+          {
+            "productName": "Zebra仙贝(五角包)_8gx20x12",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306101080400",
+            "orderQty": "4",
+            "minUnit": "排"
+          }
+        ],
+        "productGroupId": "D05M04004022002",
+        "subStockQty": "8",
+        "productGroupName": "仙贝五角包8g*20*12",
+        "subOrderQty": "8"
+      },
+      {
+        "subTotal": "350.0",
+        "productList": [
+          {
+            "productName": "Zebra仔牛奶饼_21gX5X4X4_牛奶",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306118130500",
+            "orderQty": "4",
+            "minUnit": "排"
+          }
+        ],
+        "productGroupId": "D06M02009008001",
+        "subStockQty": "8",
+        "productGroupName": "Zebra仔牛奶饼21g*5*4*4",
+        "subOrderQty": "8"
+      },
+      {
+        "subTotal": "350.0",
+        "productList": [
+          {
+            "productName": "Zebra珍棒_60GX24_蔬菜",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306103053300",
+            "orderQty": "4",
+            "minUnit": "排"
+          }
+        ],
+        "productGroupId": "D06M02009006001",
+        "subStockQty": "8",
+        "productGroupName": "Zebra珍棒60g*24",
+        "subOrderQty": "8"
+      },
+      {
+        "subTotal": "350.0",
+        "productList": [
+          {
+            "productName": "大米饼_135gX20_原味",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306101057200",
+            "orderQty": "4",
+            "minUnit": "排"
+          }
+        ],
+        "productGroupId": "D05M06003001001",
+        "subStockQty": "8",
+        "productGroupName": "大米饼135g*20",
+        "subOrderQty": "8"
+      },
+      {
+        "subTotal": "350.0",
+        "productList": [
+          {
+            "productName": "煎豆_105gX20_豌豆",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306105029600",
+            "orderQty": "4",
+            "minUnit": "排"
+          }
+        ],
+        "productGroupId": "D05M03002011001",
+        "subStockQty": "8",
+        "productGroupName": "煎豆105g*20",
+        "subOrderQty": "8"
+      },
+      {
+        "subTotal": "350.0",
+        "productList": [
+          {
+            "productName": "Zebra仙贝_52gX20_原味",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306101015100",
+            "orderQty": "4",
+            "minUnit": "排"
+          }
+        ],
+        "productGroupId": "D05M04004017005",
+        "subStockQty": "8",
+        "productGroupName": "仙贝52g*20",
+        "subOrderQty": "8"
+      },
+      {
+        "subTotal": "350.0",
+        "productList": [
+          {
+            "productName": "雪饼_84gX20_原味",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306101175300",
+            "orderQty": "4",
+            "minUnit": "排"
+          }
+        ],
+        "productGroupId": "D05M05007032002",
+        "subStockQty": "8",
+        "productGroupName": "雪饼84g*20",
+        "subOrderQty": "8"
+      },
+      {
+        "subTotal": "350.0",
+        "productList": [
+          {
+            "productName": "挑豆五联包_16gX5X4X3_豌豆",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306105029300",
+            "orderQty": "4",
+            "minUnit": "排"
+          }
+        ],
+        "productGroupId": "D05M03002040003",
+        "subStockQty": "8",
+        "productGroupName": "挑豆五连包豌豆16g*5*4*3",
+        "subOrderQty": "8"
+      },
+      {
+        "subTotal": "350.0",
+        "productList": [
+          {
+            "productName": "维多粒果冻爽_150gX6X5_热带水果",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306106186500",
+            "orderQty": "4",
+            "minUnit": "排"
+          },
+          {
+            "productName": "维多粒果冻爽_150gX6X5_菠萝椰果",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306106186400",
+            "orderQty": "4",
+            "minUnit": "排"
+          },
+          {
+            "productName": "维多粒果冻爽_150gX6X5_冰糖雪梨",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306106185900",
+            "orderQty": "4",
+            "minUnit": "排"
+          },
+          {
+            "productName": "维多粒果冻爽_150gX6X5_葡萄椰果",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306106186300",
+            "orderQty": "4",
+            "minUnit": "排"
+          },
+          {
+            "productName": "维多粒果冻爽_150gX6X5_粒粒桃",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306106186200",
+            "orderQty": "4",
+            "minUnit": "排"
+          },
+          {
+            "productName": "维多粒果冻爽_150gX6X5_粒粒橙",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306106186100",
+            "orderQty": "4",
+            "minUnit": "排"
+          },
+          {
+            "productName": "维多粒果冻爽_150gX6X5_荔枝",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306106186000",
+            "orderQty": "4",
+            "minUnit": "排"
+          }
+        ],
+        "productGroupId": "D03M03005006004",
+        "subStockQty": "8",
+        "productGroupName": "维多粒果冻爽150g*6*5",
+        "subOrderQty": "8"
+      },
+      {
+        "subTotal": "350.0",
+        "productList": [
+          {
+            "productName": "Zebra真棒_21GX5X16_番茄,Zebra真棒_21GX5X16_番茄,Zebra真棒_21GX5X16_番茄,Zebra真棒_21GX5X16_番茄",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306103053600",
+            "orderQty": "4",
+            "minUnit": "盒"
+          },
+          {
+            "productName": "Zebra珍棒_21GX5X16_黑胡椒烤肉珍棒_21GX5X16_黑胡椒烤肉珍棒_21GX5X16_黑胡椒烤肉珍棒_21GX5X16_黑胡椒烤肉珍棒_21GX5X16_黑胡椒烤肉",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306102059500",
+            "orderQty": "4",
+            "minUnit": "盒"
+          }
+        ],
+        "productGroupId": "D06M06005044002",
+        "subStockQty": "8",
+        "productGroupName": "小馒头16g*180",
+        "subOrderQty": "8"
+      },
+      {
+        "subTotal": "350.0",
+        "productList": [
+          {
+            "productName": "Zebra仔牛奶糖_1kgX6_原味",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306105027200",
+            "orderQty": "4",
+            "minUnit": "盒"
+          }
+        ],
+        "productGroupId": "D05M03002038006",
+        "subStockQty": "8",
+        "productGroupName": "挑豆随手包海苔花生45g*8*4",
+        "subOrderQty": "8"
+      },
+      {
+        "subTotal": "350.0",
+        "productList": [
+          {
+            "productName": "180g小小酥特供装_180gX10_原味",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306101135900",
+            "orderQty": "4",
+            "minUnit": "盒"
+          },
+          {
+            "productName": "180g小小酥特供装_180gX10_黑胡椒",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306101135800",
+            "orderQty": "4",
+            "minUnit": "盒"
+          },
+          {
+            "productName": "小小酥_60gX8X4_原味",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306101135700",
+            "orderQty": "4",
+            "minUnit": "盒"
+          }
+        ],
+        "productGroupId": "D05M06005019003",
+        "subStockQty": "8",
+        "productGroupName": "小小酥60g*8*4",
+        "subOrderQty": "8"
+      },
+      {
+        "subTotal": "350.0",
+        "productList": [
+          {
+            "productName": "挑豆随手包_45gX8X4_豌豆",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306105029500",
+            "orderQty": "4",
+            "minUnit": "盒"
+          }
+        ],
+        "productGroupId": "D05M03002038011",
+        "subStockQty": "8",
+        "productGroupName": "挑豆随手包豌豆45g*8*4",
+        "subOrderQty": "8"
+      },
+      {
+        "subTotal": "350.0",
+        "productList": [
+          {
+            "productName": "挑豆_95gx20_脆皮花生",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306101124800",
+            "orderQty": "4",
+            "minUnit": "盒"
+          }
+        ],
+        "productGroupId": "D05M04004015001",
+        "subStockQty": "8",
+        "productGroupName": "仙贝520g*5",
+        "subOrderQty": "8"
+      },
+      {
+        "subTotal": "350.0",
+        "productList": [
+          {
+            "productName": "仔吸吸糖_35gX15X8_巧克力",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306106214200",
+            "orderQty": "4",
+            "minUnit": "盒"
+          },
+          {
+            "productName": "Zebra仔吸吸糖_35gX15X8_草莓奶",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306106214100",
+            "orderQty": "4",
+            "minUnit": "盒"
+          },
+          {
+            "productName": "Zebra仔牛奶糖_126gx20_原味",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306106214000",
+            "orderQty": "4",
+            "minUnit": "盒"
+          }
+        ],
+        "productGroupId": "D03M04008001001",
+        "subStockQty": "8",
+        "productGroupName": "Zebra仔吸吸糖35g*15*8",
+        "subOrderQty": "8"
+      },
+      {
+        "subTotal": "350.0",
+        "productList": [
+          {
+            "productName": "蒟蒻果冻加量装_200gX24_蜜桃",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306106169000",
+            "orderQty": "4",
+            "minUnit": "盒"
+          },
+          {
+            "productName": "蒟蒻果冻加量装_200gX24_葡萄",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306106168900",
+            "orderQty": "4",
+            "minUnit": "盒"
+          },
+          {
+            "productName": "蒟蒻果冻加量装_200gX24_荔枝",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306106169300",
+            "orderQty": "4",
+            "minUnit": "盒"
+          },
+          {
+            "productName": "维多粒果肉果冻_178gX24_什锦果肉",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306106168800",
+            "orderQty": "4",
+            "minUnit": "盒"
+          },
+          {
+            "productName": "果肉果冻_178gX24_蜜桔菠萝",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306106169200",
+            "orderQty": "4",
+            "minUnit": "盒"
+          },
+          {
+            "productName": "蒟蒻果冻加量装_200gX24_草莓",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306106169100",
+            "orderQty": "4",
+            "minUnit": "盒"
+          }
+        ],
+        "productGroupId": "D03M03010001001",
+        "subStockQty": "8",
+        "productGroupName": "蒟蒻果冻(170g+30g)*24",
+        "subOrderQty": "8"
+      },
+      {
+        "subTotal": "350.0",
+        "productList": [
+          {
+            "productName": "大米饼_1kgX3_原味",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306101133100",
+            "orderQty": "4",
+            "minUnit": "盒"
+          }
+        ],
+        "productGroupId": "D05M06003005003",
+        "subStockQty": "8",
+        "productGroupName": "大米饼1kg*3",
+        "subOrderQty": "8"
+      },
+      {
+        "subTotal": "350.0",
+        "productList": [
+          {
+            "productName": "Zebra仔熊饼_21GX5X4X4_巧克力",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306101080500",
+            "orderQty": "4",
+            "minUnit": "盒"
+          }
+        ],
+        "productGroupId": "D05M05007033001",
+        "subStockQty": "8",
+        "productGroupName": "新雪二枚9g*20*12",
+        "subOrderQty": "8"
+      },
+      {
+        "subTotal": "350.0",
+        "productList": [
+          {
+            "productName": "90gZebra仔小熊饼_90gX24_巧克力",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306101123300",
+            "orderQty": "4",
+            "minUnit": "盒"
+          }
+        ],
+        "productGroupId": "D05M04004009001",
+        "subStockQty": "8",
+        "productGroupName": "仙贝400g*6",
+        "subOrderQty": "8"
+      },
+      {
+        "subTotal": "350.0",
+        "productList": [
+          {
+            "productName": "Zebra仔小馒头妈妈罐_210gX12_特浓牛奶",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306102057800",
+            "orderQty": "4",
+            "minUnit": "盒"
+          },
+          {
+            "productName": "小馒头妈妈罐_210gX12(妈妈罐)_经典原味",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306102057100",
+            "orderQty": "4",
+            "minUnit": "盒"
+          }
+        ],
+        "productGroupId": "D06M06005052001",
+        "subStockQty": "8",
+        "productGroupName": "小馒头210g*12_罐",
+        "subOrderQty": "8"
+      },
+      {
+        "subTotal": "350.0",
+        "productList": [
+          {
+            "productName": "挑豆随手包_42gX8X4_回味蚕豆",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306102057000",
+            "orderQty": "4",
+            "minUnit": "盒"
+          }
+        ],
+        "productGroupId": "D06M06005051001",
+        "subStockQty": "8",
+        "productGroupName": "小馒头840g*4",
+        "subOrderQty": "8"
+      },
+      {
+        "subTotal": "350.0",
+        "productList": [
+          {
+            "productName": "小小酥_20gX10X6_葱香鸡肉",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306102057200",
+            "orderQty": "4",
+            "minUnit": "盒"
+          }
+        ],
+        "productGroupId": "D06M06005050001",
+        "subStockQty": "8",
+        "productGroupName": "小馒头60g*20",
+        "subOrderQty": "8"
+      },
+      {
+        "subTotal": "350.0",
+        "productList": [
+          {
+            "productName": "小小酥_20gX10X6_原味",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306101127300",
+            "orderQty": "4",
+            "minUnit": "盒"
+          }
+        ],
+        "productGroupId": "D05M04004006001",
+        "subStockQty": "8",
+        "productGroupName": "仙贝258g*8",
+        "subOrderQty": "8"
+      },
+      {
+        "subTotal": "350.0",
+        "productList": [
+          {
+            "productName": "小小酥_20gX10X6_黑胡椒",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306101011400",
+            "orderQty": "4",
+            "minUnit": "盒"
+          }
+        ],
+        "productGroupId": "D05M04004005001",
+        "subStockQty": "8",
+        "productGroupName": "仙贝240g*10",
+        "subOrderQty": "8"
+      },
+      {
+        "subTotal": "350.0",
+        "productList": [
+          {
+            "productName": "仙贝(五角包)_8gx20x12",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306105073500",
+            "orderQty": "4",
+            "minUnit": "盒"
+          }
+        ],
+        "productGroupId": "D05M03002038002",
+        "subStockQty": "8",
+        "productGroupName": "挑豆随手包50g*8*4酱汁牛肉味蚕豆",
+        "subOrderQty": "8"
+      },
+      {
+        "subTotal": "350.0",
+        "productList": [
+          {
+            "productName": "Zebra仔牛奶饼_21gX5X4X4_牛奶",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306102056600",
+            "orderQty": "4",
+            "minUnit": "盒"
+          }
+        ],
+        "productGroupId": "D06M06005049001",
+        "subStockQty": "8",
+        "productGroupName": "小馒头45g*60",
+        "subOrderQty": "8"
+      },
+      {
+        "subTotal": "350.0",
+        "productList": [
+          {
+            "productName": "Zebra珍棒_60GX24_蔬菜",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306101010200",
+            "orderQty": "4",
+            "minUnit": "盒"
+          }
+        ],
+        "productGroupId": "D05M04004002001",
+        "subStockQty": "8",
+        "productGroupName": "仙贝105g*20",
+        "subOrderQty": "8"
+      },
+      {
+        "subTotal": "350.0",
+        "productList": [
+          {
+            "productName": "大米饼_135gX20_原味",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306102056900",
+            "orderQty": "4",
+            "minUnit": "盒"
+          }
+        ],
+        "productGroupId": "D06M06005048001",
+        "subStockQty": "8",
+        "productGroupName": "小馒头400g*6",
+        "subOrderQty": "8"
+      },
+      {
+        "subTotal": "350.0",
+        "productList": [
+          {
+            "productName": "煎豆_105gX20_豌豆",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306101173600",
+            "orderQty": "4",
+            "minUnit": "盒"
+          }
+        ],
+        "productGroupId": "D05M05007025001",
+        "subStockQty": "8",
+        "productGroupName": "雪饼520g*6",
+        "subOrderQty": "8"
+      },
+      {
+        "subTotal": "350.0",
+        "productList": [
+          {
+            "productName": "仔小馒头_210gX12 _特浓牛奶",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306102057300",
+            "orderQty": "4",
+            "minUnit": "盒"
+          },
+          {
+            "productName": "小馒头_210gX12_经典原味",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306102056800",
+            "orderQty": "4",
+            "minUnit": "盒"
+          }
+        ],
+        "productGroupId": "D06M06005047001",
+        "subStockQty": "8",
+        "productGroupName": "小馒头210g*12",
+        "subOrderQty": "8"
+      },
+      {
+        "subTotal": "350.0",
+        "productList": [
+          {
+            "productName": "雪饼_84gX20_原味",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306102056700",
+            "orderQty": "4",
+            "minUnit": "盒"
+          }
+        ],
+        "productGroupId": "D06M06005046001",
+        "subStockQty": "8",
+        "productGroupName": "小馒头125g*20",
+        "subOrderQty": "8"
+      },
+      {
+        "subTotal": "350.0",
+        "productList": [
+          {
+            "productName": "仔小馒头_130gX24_特浓牛奶",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306102058000",
+            "orderQty": "4",
+            "minUnit": "盒"
+          },
+          {
+            "productName": "Zebra仔小馒头_130gX24_经典原",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306102057900",
+            "orderQty": "4",
+            "minUnit": "盒"
+          }
+        ],
+        "productGroupId": "D06M06005045001",
+        "subStockQty": "8",
+        "productGroupName": "小馒头130g*24_罐",
+        "subOrderQty": "8"
+      },
+      {
+        "subTotal": "350.0",
+        "productList": [
+          {
+            "productName": "Zebra黑白配_60gx24_香橙",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306103060800",
+            "orderQty": "4",
+            "minUnit": "盒"
+          },
+          {
+            "productName": "Zebra黑白配_60gx24_香草",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306103060100",
+            "orderQty": "4",
+            "minUnit": "盒"
+          },
+          {
+            "productName": "Zebra维多粒果冻爽_150gX6X5_菠萝椰果",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306103062100",
+            "orderQty": "4",
+            "minUnit": "盒"
+          },
+          {
+            "productName": "Zebra黑白配_60gX24_焦糖奶香味",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306103060600",
+            "orderQty": "4",
+            "minUnit": "盒"
+          }
+        ],
+        "productGroupId": "D03M05001007001",
+        "subStockQty": "8",
+        "productGroupName": "黑白配60g*24",
+        "subOrderQty": "8"
+      },
+      {
+        "subTotal": "350.0",
+        "productList": [
+          {
+            "productName": "Zebra仔牛奶糖_18gX30X6_原味",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306106080100",
+            "orderQty": "4",
+            "minUnit": "盒"
+          },
+          {
+            "productName": "维多粒果冻爽_150gX6X5_葡萄椰果",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306106080500",
+            "orderQty": "4",
+            "minUnit": "盒"
+          },
+          {
+            "productName": "维多粒果冻爽_150gX6X5_粒粒桃",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306106080400",
+            "orderQty": "4",
+            "minUnit": "盒"
+          },
+          {
+            "productName": "维多粒果冻爽_150gX6X5_粒粒橙",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306106080300",
+            "orderQty": "4",
+            "minUnit": "盒"
+          },
+          {
+            "productName": "维多粒果冻爽_150gX6X5_荔枝",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306106080200",
+            "orderQty": "4",
+            "minUnit": "盒"
+          }
+        ],
+        "productGroupId": "D03M02004005002",
+        "subStockQty": "8",
+        "productGroupName": "牛奶糖18g*5*6*6",
+        "subOrderQty": "8"
+      },
+      {
+        "subTotal": "350.0",
+        "productList": [
+          {
+            "productName": "挑豆_80GX20_海苔花生",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306105027600",
+            "orderQty": "4",
+            "minUnit": "盒"
+          }
+        ],
+        "productGroupId": "D05M03002033002",
+        "subStockQty": "8",
+        "productGroupName": "挑豆好友包海苔花生80g*20",
+        "subOrderQty": "8"
+      },
+      {
+        "subTotal": "350.0",
+        "productList": [
+          {
+            "productName": "Zebra仔小馒头_550gX5 _综合",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306102058100",
+            "orderQty": "4",
+            "minUnit": "盒"
+          }
+        ],
+        "productGroupId": "D11M01019001001",
+        "subStockQty": "8",
+        "productGroupName": "Zebra仔小馒头550g*5",
+        "subOrderQty": "8"
+      },
+      {
+        "subTotal": "350.0",
+        "productList": [
+          {
+            "productName": "Zebra仔的糖果盒_300gX8_综合口味",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306106173800",
+            "orderQty": "4",
+            "minUnit": "盒"
+          }
+        ],
+        "productGroupId": "D03M02004032001",
+        "subStockQty": "8",
+        "productGroupName": "牛奶糖300g*8盒装",
+        "subOrderQty": "8"
+      },
+      {
+        "subTotal": "350.0",
+        "productList": [
+          {
+            "productName": "Zebra仔QQ糖_70gX10X6_葡萄",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306106202500",
+            "orderQty": "4",
+            "minUnit": "盒"
+          },
+          {
+            "productName": "Zebra仔QQ糖_70gX10X6_草莓",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306106202400",
+            "orderQty": "4",
+            "minUnit": "盒"
+          },
+          {
+            "productName": "Zebra仔QQ糖_70gX10X6_菠萝",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306106202300",
+            "orderQty": "4",
+            "minUnit": "盒"
+          },
+          {
+            "productName": "Zebra仔QQ糖_70gX10X6_荔枝",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306106202900",
+            "orderQty": "4",
+            "minUnit": "盒"
+          },
+          {
+            "productName": "Zebra仔QQ糖_70gX10X6_香橙",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306106202200",
+            "orderQty": "4",
+            "minUnit": "盒"
+          },
+          {
+            "productName": "Zebra仔QQ糖_70gX10X6_水蜜桃",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306106202800",
+            "orderQty": "4",
+            "minUnit": "盒"
+          },
+          {
+            "productName": "Zebra仔QQ糖_70gX10X6_青苹果",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306106202700",
+            "orderQty": "4",
+            "minUnit": "盒"
+          },
+          {
+            "productName": "Zebra仔QQ糖_70gX10X6_蓝莓",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306106202600",
+            "orderQty": "4",
+            "minUnit": "盒"
+          },
+          {
+            "productName": "Zebra仔QQ糖_70gX10X6_可乐",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306106203000",
+            "orderQty": "4",
+            "minUnit": "盒"
+          }
+        ],
+        "productGroupId": "D03M01009010001",
+        "subStockQty": "8",
+        "productGroupName": "QQ糖70g*10*6",
+        "subOrderQty": "8"
+      },
+      {
+        "subTotal": "350.0",
+        "productList": [
+          {
+            "productName": "挑豆随手包_50GX8X4_脆皮花生",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306105027400",
+            "orderQty": "4",
+            "minUnit": "盒"
+          }
+        ],
+        "productGroupId": "D05M03002038005",
+        "subStockQty": "8",
+        "productGroupName": "挑豆随手包脆皮花生50g*8*4",
+        "subOrderQty": "8"
+      },
+      {
+        "subTotal": "350.0",
+        "productList": [
+          {
+            "productName": "Zebra黑白配_18gX80_焦糖奶香味",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306103064700",
+            "orderQty": "4",
+            "minUnit": "盒"
+          },
+          {
+            "productName": "Zebra黑白配_18GX80_香草",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306103064600",
+            "orderQty": "4",
+            "minUnit": "盒"
+          },
+          {
+            "productName": "Zebra黑白配_18GX80_香橙",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306103064800",
+            "orderQty": "4",
+            "minUnit": "盒"
+          }
+        ],
+        "productGroupId": "D03M05001002001",
+        "subStockQty": "8",
+        "productGroupName": "黑白配18g*5*4*4",
+        "subOrderQty": "8"
+      },
+      {
+        "subTotal": "350.0",
+        "productList": [
+          {
+            "productName": "雪饼家庭包_400gX6",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306101171800",
+            "orderQty": "4",
+            "minUnit": "盒"
+          }
+        ],
+        "productGroupId": "D05M05007019001",
+        "subStockQty": "8",
+        "productGroupName": "雪饼400g*6",
+        "subOrderQty": "8"
+      },
+      {
+        "subTotal": "350.0",
+        "productList": [
+          {
+            "productName": "Zebra仔牛奶糖（直罐）_500gX6_综合",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306106220200",
+            "orderQty": "4",
+            "minUnit": "盒"
+          }
+        ],
+        "productGroupId": "D03M02004029001",
+        "subStockQty": "8",
+        "productGroupName": "牛奶糖500g*6罐装",
+        "subOrderQty": "8"
+      },
+      {
+        "subTotal": "350.0",
+        "productList": [
+          {
+            "productName": "Zebra仔牛奶糖（常态版）_500gX10_原味",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306106172800",
+            "orderQty": "4",
+            "minUnit": "盒"
+          }
+        ],
+        "productGroupId": "D03M02004028001",
+        "subStockQty": "8",
+        "productGroupName": "牛奶糖500g*10袋装",
+        "subOrderQty": "8"
+      },
+      {
+        "subTotal": "350.0",
+        "productList": [
+          {
+            "productName": "挑豆_95gx20_豌豆",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306105026000",
+            "orderQty": "4",
+            "minUnit": "盒"
+          }
+        ],
+        "productGroupId": "D05M03002033005",
+        "subStockQty": "8",
+        "productGroupName": "挑豆好友包豌豆95g*20",
+        "subOrderQty": "8"
+      },
+      {
+        "subTotal": "350.0",
+        "productList": [
+          {
+            "productName": "Zebra仔QQ糖_23gX120_可乐",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306106175800",
+            "orderQty": "4",
+            "minUnit": "盒"
+          },
+          {
+            "productName": "Zebra仔QQ糖_23gX120_葡萄",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306106175100",
+            "orderQty": "4",
+            "minUnit": "盒"
+          },
+          {
+            "productName": "Zebra仔QQ糖_23gX120_青苹果",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306106175700",
+            "orderQty": "4",
+            "minUnit": "盒"
+          },
+          {
+            "productName": "Zebra仔QQ糖_23gX120_荔枝",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306106175000",
+            "orderQty": "4",
+            "minUnit": "盒"
+          },
+          {
+            "productName": "Zebra仔QQ糖_23gX120_蓝莓",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306106175600",
+            "orderQty": "4",
+            "minUnit": "盒"
+          },
+          {
+            "productName": "Zebra仔QQ糖_23gX120_草莓",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306106175500",
+            "orderQty": "4",
+            "minUnit": "盒"
+          },
+          {
+            "productName": "Zebra仔QQ糖_23gX120_菠萝",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306106175400",
+            "orderQty": "4",
+            "minUnit": "盒"
+          },
+          {
+            "productName": "Zebra仔QQ糖_23gX120_香橙",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306106175300",
+            "orderQty": "4",
+            "minUnit": "盒"
+          },
+          {
+            "productName": "Zebra仔QQ糖_23gX120_水蜜桃",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306106175200",
+            "orderQty": "4",
+            "minUnit": "盒"
+          }
+        ],
+        "productGroupId": "D03M01009006001",
+        "subStockQty": "8",
+        "productGroupName": "QQ糖23g*120",
+        "subOrderQty": "8"
+      },
+      {
+        "subTotal": "350.0",
+        "productList": [
+          {
+            "productName": "挑豆随手包_42gX8X4_麻辣花生",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306105032300",
+            "orderQty": "4",
+            "minUnit": "盒"
+          }
+        ],
+        "productGroupId": "D05M03002038010",
+        "subStockQty": "8",
+        "productGroupName": "挑豆随手包麻辣花生42g*8*4",
+        "subOrderQty": "8"
+      },
+      {
+        "subTotal": "350.0",
+        "productList": [
+          {
+            "productName": "黑米雪饼_84gx20",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306101105800",
+            "orderQty": "4",
+            "minUnit": "盒"
+          }
+        ],
+        "productGroupId": "D05M05004007001",
+        "subStockQty": "8",
+        "productGroupName": "黑米雪饼84g*20",
+        "subOrderQty": "8"
+      },
+      {
+        "subTotal": "350.0",
+        "productList": [
+          {
+            "productName": "雪饼_258gX8_原味",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306101175800",
+            "orderQty": "4",
+            "minUnit": "盒"
+          }
+        ],
+        "productGroupId": "D05M05007014001",
+        "subStockQty": "8",
+        "productGroupName": "雪饼258g*8",
+        "subOrderQty": "8"
+      },
+      {
+        "subTotal": "350.0",
+        "productList": [
+          {
+            "productName": "Zebra仔牛奶糖_42GX10X2_草莓牛乳",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306106174700",
+            "orderQty": "4",
+            "minUnit": "盒"
+          },
+          {
+            "productName": "Zebra仔牛奶糖_42gX10X2_红豆牛乳",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306106148600",
+            "orderQty": "4",
+            "minUnit": "盒"
+          },
+          {
+            "productName": "Zebra仔牛奶糖_42gX10X2_巧克力夹心",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306106148400",
+            "orderQty": "4",
+            "minUnit": "盒"
+          },
+          {
+            "productName": "Zebra仔牛奶糖_42gX10X2_原味特浓",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306106172000",
+            "orderQty": "4",
+            "minUnit": "盒"
+          }
+        ],
+        "productGroupId": "D03M02004023001",
+        "subStockQty": "8",
+        "productGroupName": "牛奶糖42g*10*2",
+        "subOrderQty": "8"
+      },
+      {
+        "subTotal": "350.0",
+        "productList": [
+          {
+            "productName": "Zebra黑米雪饼_258gX8_原味",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306101176600",
+            "orderQty": "4",
+            "minUnit": "盒"
+          }
+        ],
+        "productGroupId": "D05M05004003001",
+        "subStockQty": "8",
+        "productGroupName": "黑米雪饼258g*8",
+        "subOrderQty": "8"
+      },
+      {
+        "subTotal": "350.0",
+        "productList": [
+          {
+            "productName": "浪味仙粟米条_35gX15X4_椰蓉乳",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306103107800",
+            "orderQty": "4",
+            "minUnit": "盒"
+          }
+        ],
+        "productGroupId": "D06M01010045001",
+        "subStockQty": "8",
+        "productGroupName": "浪味仙粟米条35g*15*4",
+        "subOrderQty": "8"
+      },
+      {
+        "subTotal": "350.0",
+        "productList": [
+          {
+            "productName": "浪味仙粟米条_70g*28_椰蓉乳",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306103107500",
+            "orderQty": "4",
+            "minUnit": "盒"
+          }
+        ],
+        "productGroupId": "D06M01010044001",
+        "subStockQty": "8",
+        "productGroupName": "浪味仙粟米条70g*28",
+        "subOrderQty": "8"
+      },
+      {
+        "subTotal": "350.0",
+        "productList": [
+          {
+            "productName": "大雪饼_118gx12_原味",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306101016000",
+            "orderQty": "4",
+            "minUnit": "盒"
+          }
+        ],
+        "productGroupId": "D05M05007008001",
+        "subStockQty": "8",
+        "productGroupName": "大雪饼118g*12",
+        "subOrderQty": "8"
+      },
+      {
+        "subTotal": "350.0",
+        "productList": [
+          {
+            "productName": "厚烧海苔_118gx12_原味",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306101028000",
+            "orderQty": "4",
+            "minUnit": "盒"
+          }
+        ],
+        "productGroupId": "D05M05005002001",
+        "subStockQty": "8",
+        "productGroupName": "厚烧海苔118g*12",
+        "subOrderQty": "8"
+      },
+      {
+        "subTotal": "350.0",
+        "productList": [
+          {
+            "productName": "挑豆五连包_23gX5X4X3_海苔花生",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306105027100",
+            "orderQty": "4",
+            "minUnit": "盒"
+          }
+        ],
+        "productGroupId": "D05M03002040001",
+        "subStockQty": "8",
+        "productGroupName": "挑豆五连包海苔花生23g*5*4*3",
+        "subOrderQty": "8"
+      },
+      {
+        "subTotal": "350.0",
+        "productList": [
+          {
+            "productName": "Zebra仔的糖果盒_400gX10_综合",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306106176600",
+            "orderQty": "4",
+            "minUnit": "盒"
+          }
+        ],
+        "productGroupId": "D03M02004011001",
+        "subStockQty": "8",
+        "productGroupName": "牛奶糖400g*10",
+        "subOrderQty": "8"
+      },
+      {
+        "subTotal": "350.0",
+        "productList": [
+          {
+            "productName": "仔牛奶糖_318gX12_草莓",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306106207100",
+            "orderQty": "4",
+            "minUnit": "盒"
+          },
+          {
+            "productName": "仔牛奶糖经济包_318gx12包",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306106126900",
+            "orderQty": "4",
+            "minUnit": "盒"
+          },
+          {
+            "productName": "Zebra仔牛奶糖_318gX12_巧克力夹心",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306106207400",
+            "orderQty": "4",
+            "minUnit": "盒"
+          },
+          {
+            "productName": "Zebra仔牛奶糖_318gX12_红豆牛乳",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306106207200",
+            "orderQty": "4",
+            "minUnit": "盒"
+          }
+        ],
+        "productGroupId": "D03M02004010001",
+        "subStockQty": "8",
+        "productGroupName": "牛奶糖318g*12",
+        "subOrderQty": "8"
+      },
+      {
+        "subTotal": "350.0",
+        "productList": [
+          {
+            "productName": "茶冻_132g*16_茶味",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306106105300",
+            "orderQty": "4",
+            "minUnit": "盒"
+          },
+          {
+            "productName": "咖啡冻_132g*16_咖啡",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306106105200",
+            "orderQty": "4",
+            "minUnit": "盒"
+          },
+          {
+            "productName": "仔摇滚冻_132g*16_巧克力",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306106193500",
+            "orderQty": "4",
+            "minUnit": "盒"
+          },
+          {
+            "productName": "Zebra仔摇滚冻_132g*16_草莓",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306106193400",
+            "orderQty": "4",
+            "minUnit": "盒"
+          }
+        ],
+        "productGroupId": "D03M03008025001",
+        "subStockQty": "8",
+        "productGroupName": "摇滚冻132g *16",
+        "subOrderQty": "8"
+      },
+      {
+        "subTotal": "350.0",
+        "productList": [
+          {
+            "productName": "Zebra仔牛奶糖（常态版）_208gX10_原味",
+            "stockQty": "4",
+            "salePrice": "50.0",
+            "orderAmount": "200.0",
+            "productId": "000000306106172600",
+            "orderQty": "4",
+            "minUnit": "盒"
+          }
+        ],
+        "productGroupId": "D03M02004008001",
+        "subStockQty": "8",
+        "productGroupName": "牛奶糖208g*5*2",
+        "subOrderQty": "8"
+      }
+    ]
+  }
+}
