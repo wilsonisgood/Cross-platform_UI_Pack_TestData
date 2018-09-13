@@ -1,0 +1,98 @@
+{
+  "code": "c200",
+  "message": "success",
+  "body": {
+    "planDate": "2018-05-14",
+    "planVisitCount": 3,
+    "temporaryVisitCount": 2,
+    "actualVisitCount": 50,
+    "actualPlanVisitCount": 20,
+    "actualTemporaryVisitCount": 10,
+    "storeVisitInfoList": [
+      {
+        "visitSid": "5421381_7054411170",
+        "targetType": "0",
+        "storeId": "7054411170",
+        "storeName": "宝宝超市",
+        "storeOwner": "廖小h",
+        "mobile": "0800-092-000",
+        "phone": null,
+        "address": "鲤鱼塘新市场内",
+        "storeState": "营业中",
+        "isPlan": null,
+        "visitStatus": "",
+        "visitType": ""
+      },
+      {
+        "visitSid": "5421381_7054411170",
+        "targetType": "0",
+        "storeId": "7054411170",
+        "storeName": "宝宝超市",
+        "storeOwner": "廖小v",
+        "mobile": "0800-092-000",
+        "phone": null,
+        "address": "鲤鱼塘新市场内",
+        "storeState": "营业中",
+        "isPlan": null,
+        "visitStatus": "0",
+        "visitType": ""
+      },
+      {
+        "visitSid": "5421381_7054411170",
+        "targetType": "0",
+        "storeId": "7054411170",
+        "storeName": "宝宝超市",
+        "storeOwner": "廖小小",
+        "mobile": "0800-092-000",
+        "phone": null,
+        "address": "鲤鱼塘新市场内",
+        "storeState": "营业中",
+        "isPlan": null,
+        "visitStatus": "0",
+        "visitType": ""
+      },
+      {
+        "visitSid": "5421336_7041437560",
+        "targetType": "0",
+        "storeId": "7041437560",
+        "storeName": "鳳梨超市",
+        "storeOwner": "曹小小",
+        "mobile": "0912-345-678",
+        "phone": "0988-588-588",
+        "address": "树头村",
+        "storeState": "营业中",
+        "isPlan": false,
+        "visitStatus": "3",
+        "visitType": "1"
+      },
+      {
+        "visitSid": "5421273_7055664160",
+        "targetType": "0",
+        "storeId": "7055664160",
+        "storeName": "大溪地旁邊種西瓜店",
+        "storeOwner": "王小小",
+        "mobile": "1888567854088",
+        "phone": null,
+        "address": "大溪地市场左邊數來第三家",
+        "storeState": "营业中",
+        "isPlan": false,
+        "visitStatus": "3",
+        "visitType": "2"
+      },
+      {
+        "visitSid": "18061200319445_B0FFHBV1J7",
+        "targetType": "1",
+        "storeId": "B0FFHBV1J7",
+        "storeName": "Lemon Grass(星游城店)",
+        "storeOwner": "",
+        "mobile": "",
+        "phone": null,
+        "address": "上海市徐汇区徐家汇街道谭世然钢琴ok琴吧南溪公寓",
+        "storeState": "营业中",
+        "isPlan": false,
+        "visitStatus": "2",
+        "visitType": "2"
+      }
+    ]
+  }
+}
