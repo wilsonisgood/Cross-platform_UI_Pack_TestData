@@ -1,0 +1,184 @@
+{
+  "code": "c200",
+  "message": "success",
+  "body": {
+    "visitSid": "5421336_7041437560",
+    "targetType": "0",
+    "storeId": "7041437560",
+    "storeName": "苏林正常超市",
+    "startTime": "2018-03-26 14:03:22",
+    "endTime": "2018-03-26 14:23:22",
+    "visitDuration": "20分钟",
+    "planType": "计划拜访",
+    "visitType": "异常拜访",
+    "unVisitStoreStatus": "",
+    "visitRemark": "",
+    "visitPhotoInfo": [
+      {
+        "photoDisplayType": "DOOR_WAY",
+        "specialDisplayTypeName": "",
+        "specialDisplayTypeSid": "",
+        "photoInfoList": [
+          {
+            "photoSid": "18020214105088611100122963",
+            "photoUrl": "https://www.shareicon.net/data/128x128/2016/06/19/603842_vue_512x512.png"
+          }
+        ]
+      },
+      {
+        "photoDisplayType": "OTHER",
+        "specialDisplayTypeName": "",
+        "specialDisplayTypeSid": "",
+        "photoInfoList": [
+          {
+            "photoSid": "18020214105088611100122963",
+            "photoUrl": "http://lorempixel.com/500/500/cats/"
+          },
+          {
+            "photoSid": "18020214105088611100122963",
+            "photoUrl": "http://lorempixel.com/500/500/cats/"
+          },
+          {
+            "photoSid": "18020214105088611100122963",
+            "photoUrl": "http://lorempixel.com/500/500/cats/"
+          },
+          {
+            "photoSid": "18020214105088611100122973",
+            "photoUrl": "http://lorempixel.com/500/500/cats/"
+          }
+        ]
+      },
+      {
+        "photoDisplayType": "UN_VISIT",
+        "specialDisplayTypeName": "",
+        "specialDisplayTypeSid": "",
+        "photoInfoList": [
+          {
+            "photoSid": "18020214105088611100122963",
+            "photoUrl": "http://lorempixel.com/500/500/cats/"
+          },
+          {
+            "photoSid": "18020214105088611100122973",
+            "photoUrl": "http://lorempixel.com/500/500/cats/"
+          }
+        ]
+      },
+      {
+        "photoDisplayType": "SPECIAL_DISPLAY",
+        "specialDisplayTypeName": "前端架",
+        "specialDisplayTypeSid": "1",
+        "isShowScanAssistantName": "0",
+        "scanAssistantName": "",
+        "isLinkToScanQRCode": "0",
+        "photoInfoList": [
+          {
+            "photoSid": "18020214105088611100122963",
+            "photoUrl": "http://lorempixel.com/500/500/cats/"
+          },
+          {
+            "photoSid": "18020214105088611100122954",
+            "photoUrl": "http://lorempixel.com/500/500/cats/"
+          },
+          {
+            "photoSid": "18020214105088611100122989",
+            "photoUrl": "http://lorempixel.com/500/500/cats/"
+          }
+        ]
+      },
+      {
+        "photoDisplayType": "SPECIAL_DISPLAY",
+        "specialDisplayTypeName": "乳饮端架",
+        "specialDisplayTypeSid": "378",
+        "isShowScanAssistantName": "1",
+        "scanAssistantName": "测试用乳饮端架助陈物",
+        "isLinkToScanQRCode": "0",
+        "photoInfoList": [
+          {
+            "photoSid": "18020214105088611100122963",
+            "photoUrl": "http://lorempixel.com/500/500/cats/"
+          },
+          {
+            "photoSid": "18020214105088611100122963",
+            "photoUrl": "http://lorempixel.com/500/500/cats/"
+          },
+          {
+            "photoSid": "18020214105088611100122963",
+            "photoUrl": "http://lorempixel.com/500/500/cats/"
+          }
+        ]
+      },
+      {
+        "photoDisplayType": "SPECIAL_DISPLAY",
+        "specialDisplayTypeName": "儿童牛奶小堆箱",
+        "specialDisplayTypeSid": "299",
+        "isShowScanAssistantName": "1",
+        "scanAssistantName": "识别儿童牛奶小堆箱识别儿童牛奶小堆箱识别儿童牛奶小堆箱识别儿童牛奶小堆箱识别儿童牛奶小堆箱识别儿童牛奶小堆箱识别儿童牛奶小堆箱识别儿童牛奶小堆箱",
+        "isLinkToScanQRCode": "1",
+        "photoInfoList": [
+          {
+            "photoSid": "18020214105088611100122963",
+            "photoUrl": "http://lorempixel.com/500/500/cats/"
+          },
+          {
+            "photoSid": "18020214105088611100122963",
+            "photoUrl": "http://lorempixel.com/500/500/bird/"
+          },
+          {
+            "photoSid": "18020214105088611100122963",
+            "photoUrl": "http://lorempixel.com/500/500/dog/"
+          },
+          {
+            "photoSid": "18020214105088611100122963",
+            "photoUrl": "http://lorempixel.com/500/500/boy/"
+          },
+          {
+            "photoSid": "18020214105088611100122963",
+            "photoUrl": "http://lorempixel.com/500/500/girl/"
+          }
+        ]
+      },
+      {
+        "photoDisplayType": "SPECIAL_DISPLAY",
+        "specialDisplayTypeName": "湿线地堆",
+        "specialDisplayTypeSid": "2",
+        "photoInfoList": [
+          {
+            "photoSid": "18020214105088611100122963",
+            "photoUrl": "http://lorempixel.com/500/500/cats/"
+          },
+          {
+            "photoSid": "18020214105088611100122963",
+            "photoUrl": "http://lorempixel.com/500/500/cats/"
+          }
+        ]
+      },
+      {
+        "photoDisplayType": "SPECIAL_DISPLAY",
+        "specialDisplayTypeName": "",
+        "specialDisplayTypeSid": "",
+        "photoInfoList": [
+          {
+            "photoSid": "18020214105088611100122963",
+            "photoUrl": "http://lorempixel.com/500/500/cats/"
+          },
+          {
+            "photoSid": "18020214105088611100122963",
+            "photoUrl": "http://lorempixel.com/500/500/cats/"
+          },
+          {
+            "photoSid": "18020214105088611100122963",
+            "photoUrl": "http://lorempixel.com/500/500/cats/"
+          },
+          {
+            "photoSid": "18020214105088611100122963",
+            "photoUrl": "http://lorempixel.com/500/500/cats/"
+          },
+          {
+            "photoSid": "18020214105088611100122963",
+            "photoUrl": "http://lorempixel.com/500/500/cats/"
+          }
+        ]
+      }
+    ]
+  }
+}
