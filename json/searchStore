@@ -1,0 +1,86 @@
+{
+  "code": "c200",
+  "message": "Success",
+  "body": {
+    "storeList": [
+      {
+        "storeId": "7054411170",
+        "storeName": "宝宝超市",
+        "storeOwner": "廖小小",
+        "mobile": "0800-092-000",
+        "phone": "",
+        "address": "大溪地新市场内",
+        "storeState": "营业中"
+      },
+      {
+        "storeId": "7041437560",
+        "storeName": "利源超市",
+        "storeOwner": "曹小小",
+        "mobile": "0800-092-000",
+        "phone": "0800-092-000",
+        "address": "树头村",
+        "storeState": "营业中"
+      },
+      {
+        "storeId": "7054411170",
+        "storeName": "宝宝超市",
+        "storeOwner": "廖小小",
+        "mobile": "0800-092-000",
+        "phone": "",
+        "address": "大溪地新市场内",
+        "storeState": "营业中"
+      },
+      {
+        "storeId": "7041437560",
+        "storeName": "利源超市",
+        "storeOwner": "曹小小",
+        "mobile": "0800-092-000",
+        "phone": "0800-092-000",
+        "address": "树头村",
+        "storeState": "营业中"
+      },
+      {
+        "storeId": "7054411170",
+        "storeName": "宝宝超市",
+        "storeOwner": "廖小小",
+        "mobile": "0800-092-000",
+        "phone": "",
+        "address": "大溪地新市场内",
+        "storeState": "营业中"
+      },
+      {
+        "storeId": "7041437560",
+        "storeName": "利源超市",
+        "storeOwner": "曹小小",
+        "mobile": "0800-092-000",
+        "phone": "0800-092-000",
+        "address": "树头村",
+        "storeState": "营业中"
+      },
+      {
+        "storeId": "7054411170",
+        "storeName": "宝宝超市",
+        "storeOwner": "廖小小",
+        "mobile": "0800-092-000",
+        "phone": "",
+        "address": "大溪地新市场内",
+        "storeState": "营业中"
+      },
+      {
+        "storeId": "7041437560",
+        "storeName": "vv超市",
+        "storeOwner": "曹小小",
+        "mobile": "0800-092-000",
+        "phone": "0800-092-000",
+        "address": "树头村",
+        "storeState": "营业中"
+      }
+    ],
+    "pageInfo": {
+      "resultQty": 100,
+      "pageSize": 20,
+      "maxPageNumber": 5,
+      "pageNumber": 1
+    }
+  }
+}

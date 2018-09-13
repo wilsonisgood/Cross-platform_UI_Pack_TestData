@@ -1,0 +1,26 @@
+{
+  "code": "c500",
+  "message": "共有5笔资料未同步成功！",
+  "body": [
+    {
+      "resourceName": "拜访计划",
+      "recordQty": "3"
+    },
+    {
+      "resourceName": "拜访计划拜访计划拜访计划拜访计划拜访计划拜访计划拜访计划拜访计划拜访计划拜访计划拜访计划拜访计划拜访计划拜访计划拜访计划",
+      "recordQty": "3123123456465"
+    },
+    {
+      "resourceName": "拜访计划",
+      "recordQty": "3"
+    },
+    {
+      "resourceName": "拜访计划",
+      "recordQty": "3"
+    },
+    {
+      "resourceName": "位置信息",
+      "recordQty": "2"
+    }
+  ]
+}
