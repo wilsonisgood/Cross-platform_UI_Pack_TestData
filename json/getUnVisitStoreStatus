@@ -1,0 +1,22 @@
+{
+  "code": "c200",
+  "message": "success",
+  "body": [
+    {
+      "statusCode": 4,
+      "statusName": "店家打烊"
+    },
+    {
+      "statusCode": 5,
+      "statusName": "店家公休"
+    },
+    {
+      "statusCode": 6,
+      "statusName": "突然關門"
+    },
+    {
+      "statusCode": 7,
+      "statusName": "其他"
+    }
+  ]
+}
